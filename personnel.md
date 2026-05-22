@@ -1,5 +1,7 @@
 ---
+layout: page
 title: Personnel
+permalink: /personnel
 ---
 Meet the people involved with the growth chambers!
 

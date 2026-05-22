@@ -14,7 +14,7 @@ One of the cool people involved.
 Another of the cool people involved!
 
 ### Farmer Bob
-![Photo of Farmer Bob](./media/farmer_bob_headshot.jpeg)
+<img src="./media/farmer_bob_headshot.jpeg" alt="Photo of Farmer Bob" width="200">
 There was once a farmer named Bob. <br>
 His daily routine had three jobs: <br>
 First he would shave, <br>

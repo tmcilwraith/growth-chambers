@@ -14,12 +14,10 @@ One of the cool people involved.
 Another of the cool people involved!
 
 ### Farmer Bob
-<img src="./media/farmer_bob_headshot.jpeg" alt="Photo of Farmer Bob" align="left" width="200"> <br>
-There was once a farmer named Bob. <br>
-His daily routine had three jobs: <br>
-First he would shave, <br>
-Then he'd study heat waves, <br>
-And then he'd eat corn-on-the-cob. <br>
+| | |
+| :--- | :--- |
+| <img src="./media/farmer_bob_headshot.jpeg" alt="Photo of Farmer Bob" align="left" width="200"> | There was once a farmer named Bob. <br> His daily routine had three jobs: <br> First he would shave, <br> Then he'd study heat waves, <br> And then he'd eat corn-on-the-cob. <br> |
+
 
 ## Growth Chamber Alumni
 

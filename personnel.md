@@ -3,13 +3,18 @@ layout: page
 title: Personnel
 permalink: /personnel
 ---
-Meet the people involved with the growth chambers!
+# Meet the team!
 
-## Person 1
-Description
+## Active Personnel
 
-## Person 2
-Slightly longer description to see if this text will wrap around and add more lines. Hopefully it does. If it doesn't, I should learn why.
+### Person 1
+One of the cool people involved. 
 
-## Person 3
-Is this going to be me?? You?? Someone else??
+### Person 2
+Another of the cool people involved!
+
+
+## Growth Chamber Alumni
+
+### Alumnus 1 
+Biography

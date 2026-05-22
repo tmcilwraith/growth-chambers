@@ -1,3 +1,9 @@
 theme: minima
 title: Team Shrub Growth Chambers
 author: Team Shrub UBC
+header_pages:
+  - index.md
+  - personnel.md
+  - introduction.md
+  - experimental-design.md
+  - protocols.md
